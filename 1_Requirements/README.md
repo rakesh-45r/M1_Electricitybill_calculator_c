@@ -32,6 +32,8 @@ In addition, high-end electricity bill calculators generally include:
 
 Design and testing operations of electricity bill calculator using unit testing algorithm.
 
+![Defining systems](https://user-images.githubusercontent.com/91746229/161330032-98b912c7-2755-459f-9d4c-f8d58f5a6ab5.jpg)
+
 
 **SWOT analysis:**
 
