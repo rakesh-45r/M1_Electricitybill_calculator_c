@@ -3,6 +3,16 @@
 Naming convention: "M1_Find out Electricitybill cost"
 
 ## Badges
+| Names | Badges |
+| ------|:-------|
+| Build on Linux | [![Build CI - Linux]
+| CPPCheck Analysis | [![Cppcheck Analysis]
+| Unit Testing | [![Unit Testing - Unity]
+| Codiga |![Code_quality.score](https://api.codiga.io/project/32401/score/svg)
+| Codiga |![Code_quality.grade](https://api.codiga.io/project/32401/status/svg)
+| Build on Windows | [![Build CI - Windows]
+| Valgrind | [![Valgrind]
+
 
 ![Code_quality.score](https://api.codiga.io/project/32401/score/svg)
 
